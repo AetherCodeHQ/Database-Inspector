@@ -6,7 +6,7 @@ Thank you for your interest in contributing! 🎉
 
 ### 1. Fork the Repository
 ```bash
-git clone https://github.com/Qyroxen/Database-Inspector.git
+git clone https://github.com/AetherCodeHQ/Database-Inspector.git
 cd Database-Inspector
 ```
 
